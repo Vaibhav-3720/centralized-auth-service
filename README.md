@@ -109,7 +109,7 @@ mongodb-community    started
 # Clone Repository
 
 ```bash
-git clone https://github.com/Vaibhav-3720/auth-microservice.git
+git clone https://github.com/Vaibhav-3720/centralized-auth-service.git
 cd auth-microservice
 ```
 
